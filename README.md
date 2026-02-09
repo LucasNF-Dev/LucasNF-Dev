@@ -5,11 +5,6 @@
 </div>
 
 <div align="center">  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LucasNF-Dev&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2&v=2" alt="Lucas github stats"/> 
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNF-Dev&layout=compact&theme=tokyonight&title_color=8A2BE2&text_color=8A2BE2&v=2" alt="Top Languages" />
-</div>
-
-<div align="center">  
   <a href="https://www.linkedin.com/in/lucasnferreira-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -29,17 +24,15 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 
+<br/>
+
 **Tools:**
 <br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 
-**Education:** * Software Engineering Student at University of Brasília (4th Semester).
-
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LucasNF-Dev/LucasNF-Dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+**Education:** * Software Engineering Student at University of Brasília (4th Semester).
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
