@@ -1,9 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;My+name+is+Lucas+Nascimento+Ferreira.;I'm+studying+Software+Engineering+at+UnB.;Welcome+to+my+profile!+:%29" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;My+name+is+Lucas+Nascimento+Ferreira.;I'm+studying+Software+Engineering+at+UnB.;Welcome+to+my+profile!+:%29" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,8 +15,8 @@
 <br/>
 
 <div align="center">  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LucasNF-Dev&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="Lucas github stats"/> 
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNF-Dev&layout=compact&theme=tokyonight&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LucasNF-Dev&show_icons=true&theme=dark&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="Lucas github stats"/> 
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNF-Dev&layout=compact&theme=dark&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <div align="center">  
@@ -42,7 +40,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LucasNF-Dev/LucasNF-Dev/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/LucasNF-Dev/LucasNF-Dev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
