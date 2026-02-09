@@ -35,4 +35,10 @@
 
 **Education:** * Software Engineering Student at University of Brasília (4th Semester).
 
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LucasNF-Dev/LucasNF-Dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
