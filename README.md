@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Lucas
 
-<!--
-**LucasNF-Dev/LucasNF-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student @ University of Brasília (UnB)** Currently in my 4th semester, focusing on backend development and low-level logic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Current Interests
+- **Neural Networks:** Diving into AI and Machine Learning foundations.
+- **Data Structures:** Implementing advanced structures and memory management in C.
+
+### 🛠 Tech Stack
+- **Languages:** Python, Java, C
+- **Frameworks/Tools:** Bottle (Python), Git, Linux
+
+### 📊 GitHub Stats
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasNF-Dev&show_icons=true&theme=transparent)
+
+---
+
+### 📫 Connect with me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasnferreira-dev/)](https://www.linkedin.com/in/lucasnferreira-dev/)
