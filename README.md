@@ -12,10 +12,11 @@
 
 ---
 
-### 🧠 CURRENT FOCUS & INTERESTS
-* **Neural Networks**: Diving into AI and Machine Learning foundations.
-* **Data Structures**: Implementing advanced structures and memory management in C.
-* **Backend Development**: Solidifying logic with Python and Java.
+### 🧠 Currently Learning
+
+I'm diving into Machine Learning fundamentals — focusing on understanding the math behind models instead of just using libraries.
+
+My goal is to deeply understand Neural Networks in the future, building everything step by step.
 
 ### 🛠 TECHNICAL SKILLS
 
