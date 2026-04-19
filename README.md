@@ -14,9 +14,10 @@
 
 ### 🧠 Currently Learning
 
-I'm diving into Machine Learning fundamentals — focusing on understanding the math behind models instead of just using libraries.
 
-My goal is to deeply understand Neural Networks in the future, building everything step by step.
+I'm currently focused on backend development and software architecture, building real-world projects involving data processing, APIs, and system design.
+
+I'm also exploring new technologies as needed, aiming to strengthen my ability to work on production-level systems.
 
 ### 🛠 TECHNICAL SKILLS
 
