@@ -15,9 +15,14 @@
 ### 🧠 Currently Learning
 
 
-I'm currently focused on backend development and software architecture, building real-world projects involving data processing, APIs, and system design.
+Since I started revisiting the fundamentals of computer science to build a stronger technical foundation, I’ve become interested in many different areas of computing.
 
-I'm also exploring new technologies as needed, aiming to strengthen my ability to work on production-level systems.
+Right now, I’m focused on strengthening my core skills through C, data structures, algorithms, memory management, and low-level programming, while gradually shaping my path toward a career in cybersecurity.
+
+Networking is also an area that caught my attention. Although I’m keeping it on hold for now to focus on C, I plan to come back to it through projects that combine both areas, especially working with sockets, network communication, and lower-level networking concepts.
+
+This GitHub is where I’ll document that journey — updating what I’m learning, experimenting with, and building as I progress.
+
 
 ### 🛠 TECHNICAL SKILLS
 
