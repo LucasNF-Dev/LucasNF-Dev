@@ -39,7 +39,7 @@ This GitHub is where I’ll document that journey — updating what I’m learni
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
-**Education:** 🎓 *Software Engineering Student at University of Brasília (4th Semester).*
+**Education:** 🎓 *Software Engineering Student at University of Brasília (5th Semester).*
 
 <br/>
 
